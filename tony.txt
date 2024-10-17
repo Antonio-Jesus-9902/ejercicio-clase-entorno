@@ -3,3 +3,20 @@
 El parametro global establece dentro de git que para cualquier init (inicializacion) que realice en el equipo, mi usuario y email, son esos.
 Es decir establezco los parametros de forma generalizada en el equipo.
 Si funcionaria si no lo ponemos, pero nos pediria para cada inicializacion el nombre de usuario y el email
+
+¿Desde la rama taller-info, el archivo .txt con tu nombre tiene contenido o está vacío? ¿Por qué crees que es así?
+
+No aparece ya que la he creado en la rama yo++ y no en taller-info. Esto se debe a que son dos ramas diferentes
+
+
+ ¿Por qué ocurrió un conflicto en este caso?
+
+Aun intento comprender de donde aparece
+
+¿Cómo o en qué es GitHub diferente a Git?
+
+QUe github es una aplicacion de repositorios online, y git se utiliza en local. Nos permite a su vez conectar el repositorio local con el online (git hub)
+
+Tras realizar push de master, ¿puedes también ver en GitHub tus ramas taller-info y yo++?
+
+NO, solo aparece master, ya que es la rama que he subido
