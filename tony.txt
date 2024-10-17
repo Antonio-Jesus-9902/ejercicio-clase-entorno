@@ -1,0 +1,5 @@
+¿Para qué sirve establecer el parámetro --global? ¿Funcionaría si no lo ponemos?
+
+El parametro global establece dentro de git que para cualquier init (inicializacion) que realice en el equipo, mi usuario y email, son esos.
+Es decir establezco los parametros de forma generalizada en el equipo.
+Si funcionaria si no lo ponemos, pero nos pediria para cada inicializacion el nombre de usuario y el email
